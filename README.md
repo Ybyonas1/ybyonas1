@@ -19,11 +19,19 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer 
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=Wordpress&logoColor=black&style=for-the-badge" />
 </p>
   
-🌱 I’m currently learning Java, Springboot, SQL, and React.
-  
-⚡ Fun fact: I can speak 5 different languages: English, Amharic, Spanish, French, and Tigrinya.
+🌱 I’m currently learning Java, Springboot, SQL, and React:
 
-<img src="[(https://github-readme-stats.vercel.app/api/top-langs/?username=ybyonas1&layout=compact)]" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> <br>
+
+
+⚡ Fun fact: I speak 5 different languages: (English, Amharic, Spanish, French, and Tigrinya)
+
+### Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybyonas1&show_icons=true&theme=dark"/>
+
 
 📫 How to reach me: ...
 
