@@ -1,3 +1,5 @@
+<img src="yonasbanner.jpeg" alt="Yonas' banner" />
+
 ### Hey! Welcome to my Github Page! 👋
 
 My name is Yonas, and I am a current Web Developer & aspiring Software Engineer🤞 from Charlotte, NC🏠.
