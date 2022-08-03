@@ -11,6 +11,7 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer�
 🌱 I’m currently learning Java, Springboot, SQL, and React.
 
 👨‍💻 Porgraming Languages I know:
+<p>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="HTML5" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=black&style=for-the-badge" />
@@ -18,6 +19,7 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer�
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=black&style=for-the-badge" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=black&style=for-the-badge" />
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=Wordpress&logoColor=black&style=for-the-badge" />
+</p>
   
 ⚡ Fun fact: I can speak 5 different languages: English, Amharic, Spanish, French, and Tigrinya.
 
