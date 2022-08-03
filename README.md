@@ -1,4 +1,4 @@
-<img src="yonasbanner.jpeg" alt="Yonas' banner" />
+<img src="YONASBAN.png" alt="Yonas' banner" />
 
 ### Hey! Welcome to my Github Page! 👋
 
