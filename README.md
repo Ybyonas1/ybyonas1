@@ -2,13 +2,11 @@
 
 ### Hey! Welcome to my Github Page! 👋
 
-My name is Yonas, and I am a current Web Developer & aspiring Software Engineer🤞 from Charlotte, NC🏠.
+My name is Yonas, and I am a current Web Developer & aspiring Software Engineer from Charlotte, NC🏠.
 
 -----
 
 🔭 I’m currently working Full Time as a Web Developer.
-
-🌱 I’m currently learning Java, Springboot, SQL, and React.
 
 👨‍💻 Porgraming Languages I know:
 <p>
@@ -20,6 +18,8 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer�
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=black&style=for-the-badge" />
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=Wordpress&logoColor=black&style=for-the-badge" />
 </p>
+  
+🌱 I’m currently learning Java, Springboot, SQL, and React.
   
 ⚡ Fun fact: I can speak 5 different languages: English, Amharic, Spanish, French, and Tigrinya.
 
