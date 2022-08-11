@@ -8,7 +8,7 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer 
 
 🔭 I’m currently working Full Time as a Web Developer.
 
-👨‍💻 Porgraming Languages I know:
+👨‍💻 Languages & Technologies:
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
@@ -21,10 +21,9 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer 
   
 🌱 I’m currently learning Java, Springboot, SQL, and React:
 
+<img alt="React" align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" /> <br>
-
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
 ⚡ Fun fact: I speak 5 different languages: (English, Amharic, Spanish, French, and Tigrinya)
 
@@ -41,6 +40,8 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer 
 **Ybyonas1/ybyonas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working Full Time as a Web Developer.
 - 🌱 I’m currently learning Java, Springboot, SQL, and React.
