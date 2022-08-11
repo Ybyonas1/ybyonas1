@@ -32,23 +32,6 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ybyonas1&show_icons=true&theme=dark"/>
 
 
-📫 How to reach me: ...
+📫 Connect with me:
 
-<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedins&logoColor=black&style=for-the-badge" href="https://www.linkedin.com/in/ybyonas1/" />
-
-<!--
-**Ybyonas1/ybyonas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working Full Time as a Web Developer.
-- 🌱 I’m currently learning Java, Springboot, SQL, and React.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I can speak 5 different languages: English, Amharic, Spanish, French, and Tigrinya 
--->
+[<img align="left" alt="ybyonas1 | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />](href="https://www.linkedin.com/in/ybyonas1/")
