@@ -17,6 +17,7 @@ My name is Yonas, and I am a current Web Developer & aspiring Software Engineer 
 <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=black&style=for-the-badge" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=black&style=for-the-badge" />
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=Wordpress&logoColor=black&style=for-the-badge" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=black&style=for-the-badge" />
 </p>
   
 🌱 Currently learning Java, Springboot, SQL, and React:
